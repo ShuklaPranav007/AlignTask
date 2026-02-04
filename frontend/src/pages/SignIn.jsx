@@ -47,7 +47,7 @@ const SignIn = () => {
         px-[30px]"
       >
         <h1 className="text-white text-[30px] font-semibold mb-[30px]">
-          SignIn to <span className="text-blue-400">Virtual Assistant</span>
+          SignIn to <span className="text-blue-400">Todo Application</span>
         </h1>
 
         <input
