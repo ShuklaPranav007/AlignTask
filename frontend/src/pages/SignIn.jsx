@@ -26,7 +26,7 @@ const SignIn = () => {
       );
       console.log(result);
       setLoading(false)
-      navigate("/signin"); 
+      navigate("/todo"); 
     } catch (error) {
       console.log(error);
       setLoading(false)
